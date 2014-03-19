@@ -1,0 +1,44 @@
+itayabu
+303033286
+itay abulafia
+
+=============================
+=  README for Ex10  =
+=============================
+usage:
+no main method was written
+
+==================
+=  Description:  =
+==================
+Number class:
+holds a double number in a Double class.
+
+Variable class:
+holds a variable name, can evaluate the name to a number using a map
+
+Operator:
+calculate and represent simple math actions (plus, minus mult and div)
+
+Evaluator class:
+holds a map that can contain variable names and their values. recieve an expression and calculate it recursivly
+
+Parser class:
+recusively parse an expression to an operation tree, where leaves are number or variables
+
+
+
+=============================
+=  List of submitted files: =
+=============================
+
+README			This file
+Evaluator	 	class file
+Number			class file
+Operator		class file
+Parser			class file
+Variable		class file
+
+======================
+=  Special Comments  =
+======================
