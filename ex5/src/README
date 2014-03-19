@@ -1,0 +1,34 @@
+itayabu
+303033286
+itay abulafia
+
+=============================
+=  README for Ex5  =
+=============================
+usage:
+no usage for any class as a run class.
+
+==================
+=  Description:  =
+==================
+RGBImage:
+class use a two-dimensional array of RGBColor objects to represent a color image.
+Each point in the image is a pixel which represents the color at a single coordinate.
+
+Mandelbrot:
+The Mandelbrot class represents a rectangular region of the complex plane as a color 
+image, where the color of each pixel is determined according to the escape time of the complex point from the Mandelbrot radius.
+
+
+
+=============================
+=  List of submitted files: =
+=============================
+
+README			This file
+RGBImage 		class file
+Mandelbrot		class file
+
+======================
+=  Special Comments  =
+======================
