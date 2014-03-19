@@ -1,0 +1,41 @@
+itayabu
+303033286
+itay abulafia
+
+=============================
+=  README for Ex4  =
+=============================
+usage:
+java TestComplex
+java TestRGBColor
+
+==================
+=  Description:  =
+==================
+RGBColor:
+represent a color, defined by its red, green and blue components. can do basic operations on them.
+
+Complex:
+This class implements a Complex numbers and basic operations on them.
+
+TestRGBColor:
+testing the RGBColor Class.
+
+TestComplex:
+testing the Complex Class
+
+=============================
+=  List of submitted files: =
+=============================
+
+README			This file
+RGBColor 		class file
+Complex			class file
+TestRGBColor	class file
+TestComplex		class file
+======================
+=  Special Comments  =
+======================
+I got the feedback on ex 3 only on this ex's submission day.
+I tried to follow them as much as I can but I have other classes to attend to.
+please do not expect me to make all the changes on this ex!
