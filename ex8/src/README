@@ -1,0 +1,49 @@
+itayabu
+303033286
+itay abulafia
+
+=============================
+=  README for Ex8  =
+=============================
+usage:
+No main class was written
+==================
+=  Description:  =
+==================
+RGBColor:
+added an implement of compare, with biger, smaller and equal abilities.
+
+RGBImage:
+added sorting method by the pixel's RGBColor.
+
+RealFunction Interface:
+defining an interface that contain a value method.
+
+SineFunction, CosineFunction, LinearFunction, QuadraticFunction, DerivativeFunction:
+normal functions that implement the RealFunction interface 
+
+CompositeFunction, SumFunction
+adding and composing functions, also implement the RealFunction interface.
+
+FunctionGraphics
+drawing functions on a given graphic window
+
+=============================
+=  List of submitted files: =
+=============================
+
+README				This file
+RGBColor			class file
+RGBImage			class file
+SineFunction		class file
+CosineFunction		class file
+LinearFunction		class file
+QuadraticFunction	class file
+DerivativeFunction	class file
+CompositeFunction	class file
+SumFunction			class file
+FunctionGraphics	class file
+RealFunction		interface file
+======================
+=  Special Comments  =
+======================

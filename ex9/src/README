@@ -1,0 +1,68 @@
+itayabu, rinat1915	
+30303033286 305763138
+Itay Abulafia, Rinat David
+
+ ==================
+=  Description:  =
+==================
+A program that contains 10 parts of the SpaceWars computer game:
+
+(1) Implement the SpaceShip class in an abstract class according to its API. we decided to add methods that used to represent all the spaceships.
+However all the spaceships subclasses overrides the implementation of the doAction() and getImage() methods of the SpaceShip.
+
+(2) Implement the SpaceShipFactory class that is used by the driver to create all the spaceships
+objects according to their type.
+
+The next seven (3-9) classes implement the different types of spaceships. They all extend the SpaceShipclass.
+Firstly the two that controlled by the player, then the rest:
+
+(3) Implement the Human spaceship features according the rules 
+
+(4) Implement the CrazyHuman spaceship features according the rules. 
+This class extend Human class.
+
+(5) Implement the Floater spaceship features according the rules.
+A ship that floats around and does nothing.
+
+(6) Implement the Runner spaceship features according the rules.
+A ship that tries to avoid all other ships. Has a spying ability
+that will be explained later.
+
+(7) Implement the Basher spaceship features according the rules.
+A ship that tries to collide with other ships.
+
+(8) Implement the Aggressive spaceship features according the rules. 
+A ship that tries to pursue and fire at other ships
+
+(9) Implement the Special spaceship features that we define its behavior
+. we built a spaceship that run in circles and doesn't stop to shoot
+
+(10) General tests that check the basic methods of SpaceShip.
+
+=============================
+=  List of submitted files: =
+=============================
+
+README              This file
+
+SpaceShip         	contains the main method of the program that used to represent all the spaceships    
+
+SpaceShipFactory    contains a single static method for create all the spaceships
+
+Human            	extends the SpaceShip class and contains doAction() method to build this spaceship
+
+CrazyHuman         	extends the Human class and contains doAction() method to build this spaceship
+
+Floater            	extends the SpaceShip class and contains doAction() method to build this spaceship
+
+Runner            	extends the SpaceShip class and contains doAction() method to build this spaceship
+
+Busher            	extends the SpaceShip class and contains doAction() method to build this spaceship
+
+Aggressive      	extends the SpaceShip class and contains doAction() method to build this spaceship
+
+Special           	extends the SpaceShip class and contains doAction() method to build this spaceship
+
+Testing             contains the main test methods
+
+AUTHORS             contain our login names

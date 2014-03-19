@@ -1,0 +1,38 @@
+itayabu
+303033286
+itay abulafia
+
+=============================
+=  README for Ex7  =
+=============================
+usage:
+no main class was written.
+==================
+=  Description:  =
+==================
+RecursionMystery class:
+2 methods, the first is writing the fibonacci recursion method.
+The second is showing the binari code for each number.
+
+Hadamard class:
+Given a BlackWhiteGrid, class is making an Hadamard pattern by recursion, depend on the Recursion loops asked for
+
+PatternPainter class:
+Given a BlackWhiteGrid, class is making a cool pattern by recursion, depend on the Recursion loops asked for
+
+RecursiveLs class:
+Show a list of files, folders and sub-folders in depth depended on the recursion number
+
+=============================
+=  List of submitted files: =
+=============================
+
+README				This file
+PatterPainter		class file
+Hadamard			class file
+RecursionMystery	class file
+RecursiveLs			class file
+
+======================
+=  Special Comments  =
+======================
