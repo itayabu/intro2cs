@@ -1,0 +1,40 @@
+itayabu
+303033286
+itay abulafia
+
+=============================
+=  README for Ex6  =
+=============================
+usage:
+java GameController
+
+==================
+=  Description:  =
+==================
+Ball class:
+creating and handeling a ball, controll its direction and speed.
+
+Paddle class:
+creating and handeling the lower paddle, enabling it to move right or left, bouncing the ball if hit.
+
+Brick class:
+creating, handeling and disappering bricks (and the walls). bouncing the ball if hit.
+
+Game class:
+main class, creating and handeling the rest of the classes. painting the window and handeling time quants.
+
+
+
+=============================
+=  List of submitted files: =
+=============================
+
+README			This file
+Game	 		class file
+Ball			class file
+Paddle			class file
+Brick			class file
+
+======================
+=  Special Comments  =
+======================
